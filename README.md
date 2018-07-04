@@ -17,3 +17,17 @@ mv -v -~/RESHMA/* ~/ARYA/ , cd .. , rmdir RESHMA
 ls -lart ARYA
 mkdir SIVAJI, ls, cd SIVAJI, touch EEE, touch ECE, touch CSE, nano EEE, nano ECE, nano CSE, cat EEE, more ECE, less CSE, 
 head EEE, tail ECE
+# linux-commands for creating users
+cd ..
+cd ..
+/$ pwd
+sudo adduser user1
+password
+new password
+confirm password
+sudo adduser user2
+password
+confirm password
+sudo adduser user3
+password
+confirm password
