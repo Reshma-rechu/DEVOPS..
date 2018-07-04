@@ -9,3 +9,11 @@ pwd
 cd, cd Devops, touch about.txt, nano about.txt
 ls
 cp/home/user/Devops/about.txt /home/user/Linux/Devops.txt
+# LINUX-COMMANDS.. class assignment
+ls, mkdir RESHMA, ls, cd RESHMA, touch MYSELF, nano MYSELF, cat MYSELF
+cd, mkdir ARYA, cd ARYA, touch MYFRIEND, nano MYFRIEND, cat MYFRIEND, cd .. , cd RESHMA
+du -h MYSELF, du -h
+mv -v -~/RESHMA/* ~/ARYA/ , cd .. , rmdir RESHMA
+ls -lart ARYA
+mkdir SIVAJI, ls, cd SIVAJI, touch EEE, touch ECE, touch CSE, nano EEE, nano ECE, nano CSE, cat EEE, more ECE, less CSE, 
+head EEE, tail ECE
